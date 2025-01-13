@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/aliibraheem516/"><img alt="logo" src="https://img.shields.io/badge/-Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge"/>
 </p>
 <p align="center">
-  <a href="followers"><img alt="logo" src="https://komarev.com/ghpvc/?username=aliibraheem516&style=for-the-badge"/>
+  <a href="aliibraheem516"><img alt="logo" src="https://komarev.com/ghpvc/?username=aliibraheem516&style=for-the-badge"/>
   <img alt="followers" title="Følg mig på Github" src="https://custom-icon-badges.demolab.com/github/followers/aliibraheem516?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/aliibraheem516?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aliibraheem516?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </p>
