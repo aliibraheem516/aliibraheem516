@@ -1,5 +1,3 @@
-<hr>
-
 <h1 align="center">👋, I'm Ali Ibraheem </h1>
 <h3 align="center">A passionate current Data Scientist in Czech Republic </h3>
 
