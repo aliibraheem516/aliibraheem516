@@ -22,7 +22,7 @@
  
  👨‍💻 I am a Computer Science graduate pursuing a master's in Artificial Intelligence and Data Science, with a strong interest in Al and innovative technologies .
  
-<img style="object-fit: cover;" src="https://github.com/aliibraheem516/Ali-Ibraheem/blob/main/ai.jpg" alt="dev_object" align="right" width="583.2" height="162" />
+<img style="object-fit: cover;" src="https://github.com/aliibraheem516/aliibraheem516/blob/main/ai.jpg" alt="dev_object" align="right" width="583.2" height="162" />
  
 - 🔥 Passionate about exploring advanced AI and machine learning technologies that enhance my programming and problem-solving skills.
 
