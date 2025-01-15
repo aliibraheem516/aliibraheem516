@@ -11,7 +11,8 @@
   <a href="aliibraheem516"><img alt="logo" src="https://komarev.com/ghpvc/?username=aliibraheem516&style=for-the-badge"/></a>
   <a href="https://custom-icon-badges.demolab.com/github/followers/aliibraheem516">
   <img alt="followers" title="Følg mig på Github" src="https://custom-icon-badges.demolab.com/github/followers/aliibraheem516?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/aliibraheem516?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aliibraheem516?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/aliibraheem516?tab=repositories&sort=stargazers"><img alt="Total stars on GitHub" title="Total stars on GitHub" src="https://github-readme-stats.vercel.app/api?username=aliibraheem516&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical#stars"/>
+
 </p>
 
 <hr>
