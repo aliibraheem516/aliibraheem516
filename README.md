@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ibraheem-b17309315/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   <a href="https://github.com/aliibraheem516"><img alt="logo" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
-  <a href="https://www.instagram.com/aliibraheem516/"><img alt="logo" src="https://img.shields.io/badge/-Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.instagram.com/_ali_ibraheem_/"><img alt="logo" src="https://img.shields.io/badge/-Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge"/>
 </p>
 <p align="center">
   <a href="aliibraheem516"><img alt="logo" src="https://komarev.com/ghpvc/?username=aliibraheem516&style=for-the-badge"/></a>
